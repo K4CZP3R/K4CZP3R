@@ -6,8 +6,6 @@
 ![](https://img.shields.io/endpoint?url=https://waka.k4czp3r.xyz/api/compat/shields/v1/kacper/interval:yesterday&style=flat-square&color=2F855A&label=Yesterday)
 ![](https://img.shields.io/endpoint?url=https://waka.k4czp3r.xyz/api/compat/shields/v1/kacper/interval:7_days&style=flat-square&color=2F855A&label=Last%20week)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4CZP3R&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
